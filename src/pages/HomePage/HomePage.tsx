@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
-import { ProductCard } from '../../components/ProductCard'
+import { ProductCard } from "../../components/ProductCard/ProductCard";
 import { fetchProducts, splitProductsByCategory } from '../../services/products'
 import type { Product } from '../../types/product'
 import img1 from '../../assets/legacy/img1.png'
