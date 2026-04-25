@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Lato, 'Segoe UI', Tahoma, sans-serif;
+  color: #1f1f1f;
+  background: radial-gradient(circle at top left, #f7fafb 0%, #ffffff 42%);
+}
+
+#root {
+  min-height: 100vh;
+}
